@@ -1,0 +1,1 @@
+alter tablespace TABLE_NAME add datafile '+DATAFILE_LOCATION/DATAFILE_NAME.dbf' size 1000m autoextend on;
